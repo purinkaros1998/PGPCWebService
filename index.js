@@ -1,4 +1,3 @@
-const dataSimple = require("./public/simple.json");
 const dataDamo = require("./public/damo.json");
 const express = require("express");
 const cors = require("cors");
